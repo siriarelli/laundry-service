@@ -4,7 +4,7 @@ This project aims to assist laundry shop owners in efficiently managing customer
 ## Tech stack:
 #### • PHP
 #### • Javascript
-####• MySQl
-####• HTML
-####• CSS
+#### • MySQl
+#### • HTML
+#### • CSS
 
